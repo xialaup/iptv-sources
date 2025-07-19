@@ -47988,6 +47988,9 @@
 	<programme channel="黑莓电影" start="20250720024100 +0800" stop="20250720044000 +0800">
 		<title lang="zh">寻觅之境</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250720044000 +0800" stop="20250720062000 +0800">
+		<title lang="zh">少年歌德之烦恼</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
