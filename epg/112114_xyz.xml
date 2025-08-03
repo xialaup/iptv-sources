@@ -20472,6 +20472,9 @@
 	<programme channel="动作电影" start="20250803194600 +0800" stop="20250803201600 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="动作电影" start="20250803201600 +0800" stop="20250803213700 +0800">
+		<title lang="zh">怒火追凶</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -39795,6 +39798,9 @@
 	<programme channel="惊悚悬疑" start="20250803184200 +0800" stop="20250803200600 +0800">
 		<title lang="zh">锦衣之下之绣春刀</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250803200600 +0800" stop="20250803203600 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43133,6 +43139,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250803193100 +0800" stop="20250803201100 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="明星大片" start="20250803201100 +0800" stop="20250803205600 +0800">
+		<title lang="zh">28_承欢记</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60573,6 +60582,9 @@
 	<programme channel="爱情喜剧" start="20250803193100 +0800" stop="20250803201500 +0800">
 		<title lang="zh">20_滤镜</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250803201500 +0800" stop="20250803204500 +0800">
+		<title lang="zh">《八段锦》推荐第29期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66404,6 +66416,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250803193100 +0800" stop="20250803201300 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 大漠豪情中卫美</title>
+	</programme>
+	<programme channel="纯享4K" start="20250803201300 +0800" stop="20250803205500 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 移民之城 生态之洲</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83679,6 +83694,9 @@
 	<programme channel="newtv超级电视剧" start="20250803193200 +0800" stop="20250803201800 +0800">
 		<title lang="zh">07_新居之约</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250803201800 +0800" stop="20250803210300 +0800">
+		<title lang="zh">08_新居之约</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83753,6 +83771,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250803191700 +0800" stop="20250803200500 +0800">
 		<title lang="zh">35_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250803200500 +0800" stop="20250803203500 +0800">
+		<title lang="zh">《美丽飞扬》推荐第二期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84117,6 +84138,9 @@
 	<programme channel="newtv热播精选" start="20250803192300 +0800" stop="20250803200800 +0800">
 		<title lang="zh">03_好事成双</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250803200800 +0800" stop="20250803205400 +0800">
+		<title lang="zh">04_好事成双</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84177,6 +84201,9 @@
 	<programme channel="newtv爱情喜剧" start="20250803193100 +0800" stop="20250803201500 +0800">
 		<title lang="zh">20_滤镜</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250803201500 +0800" stop="20250803204500 +0800">
+		<title lang="zh">《八段锦》推荐第29期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84230,6 +84257,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250803194600 +0800" stop="20250803201600 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250803201600 +0800" stop="20250803213700 +0800">
+		<title lang="zh">怒火追凶</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84390,6 +84420,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250803192700 +0800" stop="20250803201300 +0800">
 		<title lang="zh">10_林深见鹿</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250803201300 +0800" stop="20250803204300 +0800">
+		<title lang="zh">《美丽飞扬》推荐第二期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84531,6 +84564,9 @@
 	<programme channel="newtv军事评论" start="20250803195000 +0800" stop="20250803201200 +0800">
 		<title lang="zh">军武时光机（2）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250803201200 +0800" stop="20250803203200 +0800">
+		<title lang="zh">军武时光机（3）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84663,6 +84699,9 @@
 	<programme channel="newtv精品综合" start="20250803193100 +0800" stop="20250803201100 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250803201100 +0800" stop="20250803205600 +0800">
+		<title lang="zh">28_承欢记</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84707,6 +84746,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250803184200 +0800" stop="20250803200600 +0800">
 		<title lang="zh">锦衣之下之绣春刀</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250803200600 +0800" stop="20250803203600 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
