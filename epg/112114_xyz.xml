@@ -41034,6 +41034,9 @@
 	<programme channel="纯享4K" start="20250808050700 +0800" stop="20250808053700 +0800">
 		<title lang="zh">美丽中国说4K 生态海岸</title>
 	</programme>
+	<programme channel="纯享4K" start="20250808053700 +0800" stop="20250808060700 +0800">
+		<title lang="zh">美丽中国说4K 荒漠的呼唤</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51774,6 +51777,9 @@
 	<programme channel="newtv古装剧场" start="20250808041800 +0800" stop="20250808053300 +0800">
 		<title lang="zh">22_天行健</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250808053300 +0800" stop="20250808064700 +0800">
+		<title lang="zh">23_天行健</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51809,6 +51815,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250808045100 +0800" stop="20250808053800 +0800">
 		<title lang="zh">33_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250808053800 +0800" stop="20250808062500 +0800">
+		<title lang="zh">34_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
