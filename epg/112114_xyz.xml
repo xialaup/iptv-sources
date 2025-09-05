@@ -38301,6 +38301,9 @@
 	<programme channel="纯享4K" start="20250906010900 +0800" stop="20250906013800 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7保山篇（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250906013800 +0800" stop="20250906020800 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7蒙阴篇（上）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47631,6 +47634,9 @@
 	<programme channel="newtv超级电视剧" start="20250906005700 +0800" stop="20250906014200 +0800">
 		<title lang="zh">25_大潮如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250906014200 +0800" stop="20250906022700 +0800">
+		<title lang="zh">26_大潮如歌</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47646,11 +47652,17 @@
 	<programme channel="newtv精品纪录" start="20250906000800 +0800" stop="20250906013300 +0800">
 		<title lang="zh">大脑工厂</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250906013300 +0800" stop="20250906030100 +0800">
+		<title lang="zh">逐梦天河</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250906000600 +0800" stop="20250906013200 +0800">
 		<title lang="zh">07_燕云台</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250906013200 +0800" stop="20250906024900 +0800">
+		<title lang="zh">08_燕云台</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47711,6 +47723,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250906005400 +0800" stop="20250906014600 +0800">
 		<title lang="zh">西藏高原的钢铁运输线《谁是终极英雄》走进西藏军区某汽车运输旅（20240908）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250906014600 +0800" stop="20250906023800 +0800">
+		<title lang="zh">为新中国而战《谁是终极英雄》走进英雄城四平（20240915）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
