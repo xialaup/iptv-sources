@@ -66012,6 +66012,9 @@
 	<programme channel="纯享4K" start="20250910070600 +0800" stop="20250910073500 +0800">
 		<title lang="zh">好吃客4K 家乡味的交响</title>
 	</programme>
+	<programme channel="纯享4K" start="20250910073500 +0800" stop="20250910081500 +0800">
+		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82212,6 +82215,9 @@
 	<programme channel="黑莓动画" start="20250910060900 +0800" stop="20250910073700 +0800">
 		<title lang="zh">太空勇狗队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250910073700 +0800" stop="20250910090600 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83088,6 +83094,9 @@
 	<programme channel="newtv超级综艺" start="20250910063200 +0800" stop="20250910074900 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250910074900 +0800" stop="20250910092000 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83169,6 +83178,9 @@
 	<programme channel="newtv超级电视剧" start="20250910070900 +0800" stop="20250910074900 +0800">
 		<title lang="zh">11_天行健</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250910074900 +0800" stop="20250910083600 +0800">
+		<title lang="zh">12_天行健</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83201,6 +83213,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250910064900 +0800" stop="20250910073500 +0800">
 		<title lang="zh">46_天龙八部</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250910073500 +0800" stop="20250910081500 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83295,6 +83310,9 @@
 	<programme channel="newtv古装剧场" start="20250910064800 +0800" stop="20250910073300 +0800">
 		<title lang="zh">60_清平乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250910073300 +0800" stop="20250910081300 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83363,6 +83381,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250910065700 +0800" stop="20250910074200 +0800">
 		<title lang="zh">17_山花烂漫时</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250910074200 +0800" stop="20250910075200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
