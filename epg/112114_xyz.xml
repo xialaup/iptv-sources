@@ -41145,6 +41145,9 @@
 	<programme channel="纯享4K" start="20250919010800 +0800" stop="20250919013700 +0800">
 		<title lang="zh">味道4K 原味乡间b7巴中篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250919013700 +0800" stop="20250919020700 +0800">
+		<title lang="zh">味道4K 原味乡间b7巴中篇（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51675,6 +51678,9 @@
 	<programme channel="newtv超级电视剧" start="20250919010900 +0800" stop="20250919015500 +0800">
 		<title lang="zh">04_大漠苍狼</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250919015500 +0800" stop="20250919024000 +0800">
+		<title lang="zh">05_大漠苍狼</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51705,6 +51711,9 @@
 	<programme channel="newtv古装剧场" start="20250919005200 +0800" stop="20250919013700 +0800">
 		<title lang="zh">07_新洛神</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250919013700 +0800" stop="20250919022300 +0800">
+		<title lang="zh">08_新洛神</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51722,6 +51731,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250919004900 +0800" stop="20250919013500 +0800">
 		<title lang="zh">07_大都市小爱情</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250919013500 +0800" stop="20250919022000 +0800">
+		<title lang="zh">08_大都市小爱情</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51771,6 +51783,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250919004800 +0800" stop="20250919013300 +0800">
 		<title lang="zh">我姥爷1945之绝命枪第39集</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250919013300 +0800" stop="20250919021800 +0800">
+		<title lang="zh">我姥爷1945之绝命枪第40集</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51779,6 +51794,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250919010300 +0800" stop="20250919015500 +0800">
 		<title lang="zh">白衣荣光铸忠诚 走进联勤保障部队第九八四医院</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250919015500 +0800" stop="20250919024800 +0800">
+		<title lang="zh">何继荣：老兵的“焰火”人生</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
