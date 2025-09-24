@@ -44169,6 +44169,9 @@
 	<programme channel="明星大片" start="20250924150600 +0800" stop="20250924152600 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="明星大片" start="20250924152600 +0800" stop="20250924161200 +0800">
+		<title lang="zh">12_小日子</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -85203,6 +85206,9 @@
 	<programme channel="newtv超级电视剧" start="20250924143700 +0800" stop="20250924152200 +0800">
 		<title lang="zh">08_锦月如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250924152200 +0800" stop="20250924160400 +0800">
+		<title lang="zh">09_锦月如歌</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85268,6 +85274,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250924145100 +0800" stop="20250924153000 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250924153000 +0800" stop="20250924161500 +0800">
+		<title lang="zh">26_再造之恩</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85365,6 +85374,9 @@
 	<programme channel="newtv精品纪录" start="20250924144900 +0800" stop="20250924151900 +0800">
 		<title lang="zh">03_在抽象中繁复</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250924151900 +0800" stop="20250924155800 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85434,6 +85446,9 @@
 	<programme channel="newtv古装剧场" start="20250924143700 +0800" stop="20250924151600 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250924151600 +0800" stop="20250924160300 +0800">
+		<title lang="zh">05_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85499,6 +85514,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250924144300 +0800" stop="20250924152400 +0800">
 		<title lang="zh">24_姐妹情缘</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250924152400 +0800" stop="20250924160300 +0800">
+		<title lang="zh">祛湿专题分享</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85566,6 +85584,9 @@
 	<programme channel="newtv家庭剧场" start="20250924144600 +0800" stop="20250924152600 +0800">
 		<title lang="zh">祛湿专题分享</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250924152600 +0800" stop="20250924161000 +0800">
+		<title lang="zh">15_奶站风波</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85625,6 +85646,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250924144200 +0800" stop="20250924152600 +0800">
 		<title lang="zh">21_旗袍美探</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250924152600 +0800" stop="20250924160600 +0800">
+		<title lang="zh">祛湿专题分享</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85977,6 +86001,9 @@
 	<programme channel="newtv军事评论" start="20250924150400 +0800" stop="20250924152600 +0800">
 		<title lang="zh">奋进深蓝写忠诚b7南昌舰入列五周年</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250924152600 +0800" stop="20250924154800 +0800">
+		<title lang="zh">俄乌冲突中的新型无人装备</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86037,6 +86064,9 @@
 	<programme channel="newtv炫舞未来" start="20250924142800 +0800" stop="20250924151700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250924151700 +0800" stop="20250924153900 +0800">
+		<title lang="zh">民族风健身舞《金风吹来的时候》（20240513）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86090,6 +86120,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250924150600 +0800" stop="20250924152600 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250924152600 +0800" stop="20250924161200 +0800">
+		<title lang="zh">12_小日子</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
