@@ -47457,6 +47457,9 @@
 	<programme channel="黑莓动画" start="20250927044800 +0800" stop="20250927053500 +0800">
 		<title lang="zh">11_夏目友人帐第7季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250927053500 +0800" stop="20250927091500 +0800">
+		<title lang="zh">01_一人之下 第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47793,6 +47796,9 @@
 	<programme channel="newtv超级电影" start="20250927041100 +0800" stop="20250927054400 +0800">
 		<title lang="zh">九道湾</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250927054400 +0800" stop="20250927062200 +0800">
+		<title lang="zh">我和我的父辈-乘风</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47885,6 +47891,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250927050800 +0800" stop="20250927053300 +0800">
 		<title lang="zh">02_新中国新女性</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250927053300 +0800" stop="20250927055800 +0800">
+		<title lang="zh">03_劳动最光荣</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48021,6 +48030,9 @@
 	<programme channel="newtv爱情喜剧" start="20250927044600 +0800" stop="20250927053200 +0800">
 		<title lang="zh">14_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250927053200 +0800" stop="20250927061700 +0800">
+		<title lang="zh">15_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48035,6 +48047,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250927035500 +0800" stop="20250927054200 +0800">
 		<title lang="zh">上海王</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250927054200 +0800" stop="20250927060200 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48062,6 +48077,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250927052500 +0800" stop="20250927053900 +0800">
 		<title lang="zh">小品《开不了口》 表演：郭耘奇 谢泽成 闫佩伦 张祐维 滕哲（字幕版）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250927053900 +0800" stop="20250927055500 +0800">
+		<title lang="zh">小品《坑》沈腾、马丽、艾伦、常远、宋阳、于健</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48120,6 +48138,9 @@
 	<programme channel="newtv军事评论" start="20250927051600 +0800" stop="20250927053800 +0800">
 		<title lang="zh">1812法俄战争b7博罗季诺会战（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250927053800 +0800" stop="20250927060000 +0800">
+		<title lang="zh">1812法俄战争b7博罗季诺会战（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48140,6 +48161,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250927051800 +0800" stop="20250927053900 +0800">
 		<title lang="zh">民族健身舞《爱在羊茸山水间》（20231218）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250927053900 +0800" stop="20250927062900 +0800">
+		<title lang="zh">一笑一周（20250118）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48191,6 +48215,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250927044900 +0800" stop="20250927053900 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250927053900 +0800" stop="20250927055900 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
