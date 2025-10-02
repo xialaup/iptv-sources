@@ -28290,6 +28290,9 @@
 	<programme channel="咪咕综合体育" start="20251002114000 +0800" stop="20251002120000 +0800">
 		<title lang="zh">中超精华 第26轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251002120000 +0800" stop="20251002120500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28340,6 +28343,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251002113500 +0800" stop="20251002120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十一期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251002120000 +0800" stop="20251002120500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -86268,6 +86274,9 @@
 	<programme channel="newtv超级体育" start="20251002110000 +0800" stop="20251002120000 +0800">
 		<title lang="zh">2025年世乒联大满贯赛(中国站)-混双半决赛1等</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251002120000 +0800" stop="20251002130000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -86579,6 +86588,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251002110400 +0800" stop="20251002115000 +0800">
 		<title lang="zh">03_双重任务</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251002115000 +0800" stop="20251002123000 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87012,6 +87024,9 @@
 	<programme channel="newtv炫舞未来" start="20251002110500 +0800" stop="20251002115300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251002115300 +0800" stop="20251002131000 +0800">
+		<title lang="zh">新能源行业从业者钟文隆兴趣广泛 寻找志趣相投的另一半（20250311）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87137,6 +87152,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251002113100 +0800" stop="20251002120000 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251002120000 +0800" stop="20251002142400 +0800">
+		<title lang="zh">德云斗笑社</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
