@@ -48078,6 +48078,9 @@
 	<programme channel="newtv超级电影" start="20251110040800 +0800" stop="20251110054800 +0800">
 		<title lang="zh">公路美人</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251110054800 +0800" stop="20251110071900 +0800">
+		<title lang="zh">双山阻击战</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48129,6 +48132,9 @@
 	<programme channel="newtv精品大剧" start="20251110045600 +0800" stop="20251110054200 +0800">
 		<title lang="zh">28_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251110054200 +0800" stop="20251110062600 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48174,6 +48180,9 @@
 	<programme channel="newtv古装剧场" start="20251110044800 +0800" stop="20251110053300 +0800">
 		<title lang="zh">52_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251110053300 +0800" stop="20251110061800 +0800">
+		<title lang="zh">53_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48197,6 +48206,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251110045600 +0800" stop="20251110054100 +0800">
 		<title lang="zh">14_亮剑</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251110054100 +0800" stop="20251110062500 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48266,6 +48278,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251110045500 +0800" stop="20251110054100 +0800">
 		<title lang="zh">16_烟火人家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251110054100 +0800" stop="20251110062500 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48387,6 +48402,9 @@
 	<programme channel="newtv军事评论" start="20251110051600 +0800" stop="20251110054100 +0800">
 		<title lang="zh">探秘“流动的仪仗队”（上集）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251110054100 +0800" stop="20251110060600 +0800">
+		<title lang="zh">探秘“流动的仪仗队”（下集）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48446,6 +48464,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251110041200 +0800" stop="20251110053400 +0800">
 		<title lang="zh">巨蟒1</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251110053400 +0800" stop="20251110061800 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -48533,6 +48554,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251110045300 +0800" stop="20251110054400 +0800">
 		<title lang="zh">拳王争霸赛：科尔迪纳VS巴斯克斯</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251110054400 +0800" stop="20251110062800 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
