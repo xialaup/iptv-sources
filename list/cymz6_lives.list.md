@@ -15,4 +15,4 @@
 | 9 | 东营公共 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 山东综艺 | IPv4 直链 | <http://221.2.148.205:8154/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Dec 31 2025 22:15:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 31 2025 23:14:37 GMT+0000 (Coordinated Universal Time)**
