@@ -18,4 +18,4 @@
 | 12 | 浙江卫视 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 13 | 湖南卫视 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Jan 03 2026 21:39:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 03 2026 23:05:59 GMT+0000 (Coordinated Universal Time)**
