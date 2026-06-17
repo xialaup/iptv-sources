@@ -59376,6 +59376,9 @@
 	<programme channel="newtv超级综艺" start="20260617200100 +0800" stop="20260617211800 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260617211800 +0800" stop="20260617231000 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59459,6 +59462,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260617193400 +0800" stop="20260617205900 +0800">
 		<title lang="zh">暗影</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260617205900 +0800" stop="20260617223000 +0800">
+		<title lang="zh">暗影2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
