@@ -59307,6 +59307,12 @@
 	<programme channel="newtv超级体育" start="20260812120000 +0800" stop="20260812123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260812123500 +0800" stop="20260812125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260812125500 +0800" stop="20260812140000 +0800">
+		<title lang="zh">实况录像-2026年中国羽毛球公开赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59330,6 +59336,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260812101900 +0800" stop="20260812124900 +0800">
 		<title lang="zh">变形金刚2 卷土重来</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260812124900 +0800" stop="20260812142900 +0800">
+		<title lang="zh">街头霸王</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59381,6 +59390,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260812114600 +0800" stop="20260812123200 +0800">
 		<title lang="zh">13_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812123200 +0800" stop="20260812131800 +0800">
+		<title lang="zh">14_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59987,6 +59999,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260812120500 +0800" stop="20260812124900 +0800">
 		<title lang="zh">39_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812124900 +0800" stop="20260812131900 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
