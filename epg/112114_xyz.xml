@@ -59349,6 +59349,12 @@
 	<programme channel="newtv超级体育" start="20260814120000 +0800" stop="20260814123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260814123500 +0800" stop="20260814125900 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260814125900 +0800" stop="20260814140000 +0800">
+		<title lang="zh">实况录像-2026年中国羽毛球公开赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60038,6 +60044,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260814115000 +0800" stop="20260814123600 +0800">
 		<title lang="zh">03_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814123600 +0800" stop="20260814130500 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814130500 +0800" stop="20260814134900 +0800">
+		<title lang="zh">07_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
