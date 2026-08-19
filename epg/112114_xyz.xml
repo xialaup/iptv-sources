@@ -16479,6 +16479,18 @@
 	<programme channel="呼和浩特都市" start="20260820224500 +0800" stop="20260820235900 +0800">
 		<title lang="zh">青城眼</title>
 	</programme>
+	<channel id="咪咕综合体育">
+		<display-name lang="zh">咪咕综合体育</display-name>
+	</channel>
+	<programme channel="咪咕综合体育" start="20260820000000 +0800" stop="20260820012000 +0800">
+		<title lang="zh">网球世界-2026WTA多哈站女单第1轮 郑钦文-肯宁</title>
+	</programme>
+	<channel id="咪咕足球">
+		<display-name lang="zh">咪咕足球</display-name>
+	</channel>
+	<programme channel="咪咕足球" start="20260820000000 +0800" stop="20260820000500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
