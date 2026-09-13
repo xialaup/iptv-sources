@@ -42057,6 +42057,9 @@
 	<programme channel="newtv超级电影" start="20260914041500 +0800" stop="20260914053400 +0800">
 		<title lang="zh">篮球美少女</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260914053400 +0800" stop="20260914071900 +0800">
+		<title lang="zh">海浪</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
